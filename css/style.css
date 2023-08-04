@@ -368,7 +368,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(253, 0, 0, 0.5);
   opacity: 0;
   padding-top: 60px;
   transition: 0.5s;
@@ -377,6 +377,10 @@
 .product-item:hover .product-overlay {
   opacity: 1;
   padding-top: 0;
+}
+
+.textmobil {
+  color: #ec1a1a;
 }
 
 /*** Team ***/
