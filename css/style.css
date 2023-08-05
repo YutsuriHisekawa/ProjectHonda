@@ -528,3 +528,46 @@
   font-weight: 600;
   line-height: normal;
 }
+
+/* Kunjungi Kami */
+
+.Textkjg {
+  color: #e62533;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.36px;
+}
+
+.Textkjg1 {
+  color: #333;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.36px;
+}
+
+.Textkjg2 {
+  overflow: hidden;
+  color: #333;
+  text-overflow: ellipsis;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 136.364% */
+  letter-spacing: 0.22px;
+}
+
+.imgMap {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  max-width: 100%;
+  height: 150px;
+}

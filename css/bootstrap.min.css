@@ -20,7 +20,7 @@
   --bs-gray-dark: #343a40;
   --bs-primary: #d63429;
   --bs-secondary: #eddd5e;
-  --bs-success: #198754;
+  --bs-success: #871919;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
@@ -2601,11 +2601,11 @@ textarea.form-control-lg {
 }
 
 .form-range:focus::-webkit-slider-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(91, 140, 81, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(140, 81, 81, 0.25);
 }
 
 .form-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(91, 140, 81, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(140, 81, 81, 0.25);
 }
 
 .form-range::-moz-focus-outer {
@@ -8306,7 +8306,7 @@ fieldset:disabled .btn {
 }
 
 .text-dark {
-  color: #080808 !important;
+  color: #333 !important;
 }
 
 .text-white {
